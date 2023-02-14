@@ -1,0 +1,16 @@
+/* Google Poppin Font */
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+ Nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    }
+  body{
+        font-family: 'Poppins', sans-serif;
+  }
+
+  /* Nav Styles */
+ span a{
+    text-decoration: none;
+  }
